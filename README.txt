@@ -1,1 +1,2 @@
 Sistema do cadastro por convite, funciona da siguinte forma, quem já esta cadastrado tem 5 convites para fazer, onde é gerenciado por um codigo, onde apos o mesmo zerar os seu convites, o seu codigo fica invalido sendo assim o mesmo não pode mais fazer convites, todos os novos codastrados tem 5 convites também.
+Realisando uma alteração, adicionado uns alerts.
