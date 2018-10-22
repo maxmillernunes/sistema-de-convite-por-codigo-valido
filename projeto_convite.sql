@@ -39,7 +39,7 @@ CREATE TABLE `convite` (
 --
 
 INSERT INTO `convite` (`id`, `email`, `senha`, `codigo`, `contador`) VALUES
-(1, 'maxmillernunes11@gmail.com', '7815696ecbf1c96e6894b779456d330e', '37d1f02d383fe8f31e56246e4b7d8581', 5);
+(1, 'maxmillernunes11@gmail.com', '698dc19d489c4e4db73e28a713eab07b', '77a71d0ba67e1b60787f01f3fc0ed9c7', 5);
 
 --
 -- Índices de tabelas apagadas
